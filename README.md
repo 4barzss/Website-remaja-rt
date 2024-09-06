@@ -6,7 +6,7 @@
     <title>Website-remaja-rt</title>
 </head>
 <body>
-    <h1>Welcome to My Website</h1>
+    <h1>my Website remaja rt</h1>
     <p>This is a simple page hosted on GitHub Pages.</p>
 </body>
 </html>
