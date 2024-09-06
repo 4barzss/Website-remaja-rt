@@ -9,7 +9,7 @@
     <h1>my Website remaja rt</h1>
     <p>This is a simple page hosted on GitHub Pages.</p>
     <p> folow me on instagram:
-    <a href="https://www.instagram.com/4barzss/" target="_blank">
+    <a href="[https://www.instagram.com/4barzss/](https://www.instagram.com/4barzss?igsh=dXcxdnNlZDh5eg==)" target="_blank">
 
 </a>
 
